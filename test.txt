@@ -1,3 +1,0 @@
-This is a test file!
-Hi, How are you?
-I'm fine!
